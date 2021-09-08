@@ -25,7 +25,7 @@
 
 - This Project is about creating a **Dashboard** based on which User would be able to analyze the sentiment of the specific 
 stock. 
-- Analytical Server `OHLC (Open/High/Low/Close)` time series based on the **Stock List** dataset is created which is imported from the **JSON** file.
+- Analytical Server **OHLC (Open/High/Low/Close)** time series based on the **Stock List** dataset is created which is imported from the **JSON** file.
 - An **OHLC** chart is a type of bar chart that shows open, high, low, and closing prices for each period. 
 - **OHLC** charts are useful since they show the four major data points over a period, with the closing price being considered the most important by many traders.
 - The final output will be displayed in a report printed in **Charts**. 
@@ -33,7 +33,7 @@ stock.
 	
 ## Input
 
-- The ‘Stock List’ dataset which is provided in JSON format comprise of certain attributes, following is the associated meanings of some of the attributes.
+- The **Stock List** dataset which is provided in **JSON** format comprise of certain attributes, following is the associated meanings of some of the attributes.
 
 ```
 struct OHLC
