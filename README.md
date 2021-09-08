@@ -32,9 +32,7 @@ stock.
 
 - To run this project, install and setup the following Libraries,
 
-<div align = "center">
-
-```
+```py
 pip install dash   
 pip install dash-html-components                                         
 pip install dash-core-components                                     
@@ -44,8 +42,6 @@ pip install dash-bootstrap-components
 pip install stockstats
 pip install mpl_finance
 ```
-
-	</div>
 
 ## Libraries
 
