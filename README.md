@@ -72,15 +72,15 @@ pip install mpl_finance
 		
 	* [JSON](#)
 	* [Dash](#)
-	* Dash Core Components
-	* Dash Html Components
-	* Dash Dependencies
-	* Dash Bootstrap Components
-	* Dash Table
-	* Plotly
-	* Datetime
-	* Stockstats
-	* Matplotlib
+	* [Dash Core Components](#)
+	* [Dash Html Components](#)
+	* [Dash Dependencies](#)
+	* [Dash Bootstrap Components](#)
+	* [Dash Table](#)
+	* [Plotly](#)
+	* [Datetime](#)
+	* [Stockstats](#)
+	* [Matplotlib](#)
 
 
 <div align = "center">
