@@ -1,6 +1,8 @@
 <div align = "center">
 
 # [OHLC Engine](#)
+	
+</div>
   
 ## Table of contents
   
@@ -26,4 +28,4 @@ $ npm install
 $ npm start
 ```
 
-</div>
+
