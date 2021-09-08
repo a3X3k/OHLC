@@ -69,6 +69,6 @@ def plot(x):
   plt.axhline(100, linestyle='--', alpha=0.1)
   plt.show()
 print('Please eneter correct value')
-x='GOOGL'
+x=input()
 plot(x)
 
