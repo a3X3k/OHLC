@@ -116,10 +116,13 @@ pip install yfinance
 <img src="https://user-images.githubusercontent.com/52845731/132575365-5b5e8804-5bfb-4735-9cdc-407ee13af2cf.png" alt="drawing" width="900"/>
 </br>
 </br>
+</br>
 <img src="https://user-images.githubusercontent.com/52845731/132575424-490b4ba1-1601-4670-bdf6-b17606b07d94.png" alt="drawing" width="900"/>
 </br>
 </br>
+</br>
 <img src="https://user-images.githubusercontent.com/52845731/132575480-a44c00f3-012d-4abe-8527-d9f6aff35363.png" alt="drawing" width="900"/>
+</br>
 </br>
 </br>
 <img src="https://user-images.githubusercontent.com/52845731/132562513-69e72af2-7582-4507-8566-1e4ef5d8c68c.png" alt="drawing" width="900"/>
