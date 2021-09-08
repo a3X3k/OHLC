@@ -37,9 +37,10 @@ $ npm start
 
 ## Members
 
-|----------------|
 | Adheena B |
 | Karthik Shriram G S |
 | Lavanya Ratna Sirisha Munduri |
 | Peddu Sai Harika |
 | S Abhishek |
+|----------------|
+
