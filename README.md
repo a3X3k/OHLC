@@ -1,16 +1,18 @@
 <div align = "center">
 
 # [OHLC Engine](#)
+
+	
+## Table of contents
+	
+|----------------|
+| [About](#About)  | 
+| [Setup](#setup)  |  
+| [Libraries](#Libraries) |
+| [Members](#Members) | 
 	
 </div>
- 
- 
-## Table of contents
- 
-* [About](#About)
-* [Setup](#setup)
-* [Libraries](#Libraries)
-* [Members](#Members)
+
 
 
 ## About
