@@ -6,6 +6,7 @@
 ## Table of contents
 
 | [About](#About)  | 
+|----------------|
 | [Setup](#setup)  |  
 | [Libraries](#Libraries) |
 | [Members](#Members) | 
