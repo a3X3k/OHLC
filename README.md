@@ -33,7 +33,7 @@ stock.
 
 - The ‘Stock List’ dataset which is provided in JSON format comprise of certain attributes, following is the associated meanings of some of the attributes.
 
-```c
+```
 struct OHLC
 {
 	symbol : Stock Ticker string
