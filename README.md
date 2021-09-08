@@ -7,8 +7,10 @@
 
 | [About](#About)  | 
 |----------------|
-| [Setup](#setup)  |  
+| [Setup](#setup)  | 
+|----------------|
 | [Libraries](#Libraries) |
+|----------------|
 | [Members](#Members) | 
 |----------------|
 	
