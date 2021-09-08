@@ -17,8 +17,8 @@
 
 - This Project is about creating a **Dashboard** based on which User would be able to analyze the sentiment of the specific 
 stock. 
-- Analytical Server "OHLC" (Open/High/Low/Close) time series based on the ‘Stock List’ dataset is created which is imported from the JSON file.
-- The Final output will be displayed in a report printed in Charts. 
+- Analytical Server `OHLC (Open/High/Low/Close)` time series based on the **Stock List** dataset is created which is imported from the **JSON** file.
+- The final output will be displayed in a report printed in **Charts**. 
 	
 	
 ## Setup
