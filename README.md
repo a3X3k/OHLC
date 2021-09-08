@@ -1,6 +1,6 @@
 <div align = "center">
 
-# [OHLC Engine](#)
+# [**OHLC Engine**](#)
 
 </br>
 	
