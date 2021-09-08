@@ -51,7 +51,7 @@ struct OHLC
 	
 
 ```
-├── Code
+├── RSI Code
 │   ├── RSI.py
 │
 └── README.md
