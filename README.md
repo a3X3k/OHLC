@@ -98,6 +98,8 @@ pip install yfinance
 ## Project Go through
 
 ![image](https://user-images.githubusercontent.com/52845731/132562513-69e72af2-7582-4507-8566-1e4ef5d8c68c.png)
+![image](https://user-images.githubusercontent.com/52845731/132563454-d65e10dd-dc31-45f9-a6ef-3ced6da7b1ec.png)
+
 
 
 <div align = "center">
