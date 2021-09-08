@@ -23,8 +23,6 @@
 
 ## Directory Structure
 
-</br>
-
 ```
 ├── RSI Code
 │   ├── RSI.py
