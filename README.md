@@ -37,6 +37,9 @@ $ npm start
 
 ## Members
 
+<div align = "center">
+
 | Adheena B | Karthik Shriram G S| Lavanya Ratna Sirisha Munduri | Peddu Sai Harika | S Abhishek |
 |----------------|----------------|----------------|----------------|----------------|
-
+	
+</div>
