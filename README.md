@@ -10,10 +10,11 @@
 
 | | Table Of Contents |
 |--|----------------|
-| 1 | [About](#About)  | 
-| 2 | [Setup](#setup)  | 
-| 3 | [Libraries](#Libraries) |
-| 4 | [Members](#Members) | 
+| 1 | [About](#About)  |
+| 2 | [Input](#Input)  |
+| 3 | [Setup](#setup)  | 
+| 4 | [Libraries](#Libraries) |
+| 5 | [Members](#Members) | 
 
 	
 </div>
@@ -27,6 +28,24 @@ stock.
 - Analytical Server `OHLC (Open/High/Low/Close)` time series based on the **Stock List** dataset is created which is imported from the **JSON** file.
 - The final output will be displayed in a report printed in **Charts**. 
 	
+	
+## Input
+
+- The ‘Stock List’ dataset which is provided in JSON format comprise of certain attributes, following is the associated meanings of some of the attributes.
+
+```json
+struct OHLC
+{
+	symbol : Stock Ticker string
+	open : opening price Double
+	high : highest price Double
+	low : lowest price Double
+	close : closed price Double
+	date : date of transaction Date
+}
+```
+
+- Rest all attributes can be ignored for generating the OHLC Bar charts
 	
 ## Setup
 
