@@ -7,7 +7,7 @@
 ## Table of Contents
 
 | | Table Of Contents |
-| |----------------|
+|--|----------------|
 | 1 | [About](#About)  | 
 | 2 | [Setup](#setup)  | 
 | 3 | [Libraries](#Libraries) |
