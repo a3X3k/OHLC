@@ -56,12 +56,17 @@ struct OHLC
 
 ```py
 pip install dash   
+
 pip install dash-html-components                                         
+
 pip install dash-core-components                                     
+
 pip install plotly
 
 pip install dash-bootstrap-components
+
 pip install stockstats
+
 pip install mpl_finance
 ```
 
