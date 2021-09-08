@@ -26,6 +26,8 @@
 - This Project is about creating a **Dashboard** based on which User would be able to analyze the sentiment of the specific 
 stock. 
 - Analytical Server `OHLC (Open/High/Low/Close)` time series based on the **Stock List** dataset is created which is imported from the **JSON** file.
+- An **OHLC** chart is a type of bar chart that shows open, high, low, and closing prices for each period. 
+- **OHLC** charts are useful since they show the four major data points over a period, with the closing price being considered the most important by many traders.
 - The final output will be displayed in a report printed in **Charts**. 
 	
 	
@@ -47,6 +49,7 @@ struct OHLC
 
 - Rest all attributes can be ignored for generating the OHLC Bar charts
 	
+	
 ## Setup
 
 - To run this project, install and setup the following Libraries,
@@ -61,6 +64,7 @@ pip install dash-bootstrap-components
 pip install stockstats
 pip install mpl_finance
 ```
+
 
 ## Libraries
 
