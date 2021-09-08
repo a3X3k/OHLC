@@ -138,7 +138,7 @@ pip install yfinance
 	
 </br>
 
-| [Adheena B]() | [Karthik Shriram G S]()| [Lavanya Ratna Sirisha Munduri]() | [Peddu Sai Harika]() | [S Abhishek]() |
+| [Adheena B](https://github.com/AdheenaBabu) | [Karthik Shriram G S](https://github.com/karthik0145)| [Lavanya Ratna Sirisha Munduri](https://github.com/LavanyaSirisha) | [Peddu Sai Harika]() | [S Abhishek](https://github.com/a3X3k/) |
 |----------------|----------------|----------------|----------------|----------------|
 	
 </div>
