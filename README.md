@@ -2,15 +2,16 @@
 
 # [OHLC Engine](#)
 
+</br>
 	
-## Table of contents
+## Table of Contents
 
-| Table Of Contents |
-|----------------|
-| [About](#About)  | 
-| [Setup](#setup)  | 
-| [Libraries](#Libraries) |
-| [Members](#Members) | 
+| | Table Of Contents |
+| |----------------|
+| 1 | [About](#About)  | 
+| 2 | [Setup](#setup)  | 
+| 3 | [Libraries](#Libraries) |
+| 4 | [Members](#Members) | 
 
 	
 </div>
