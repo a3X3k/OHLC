@@ -14,7 +14,8 @@
 | 2 | [Input](#Input)  |
 | 3 | [Setup](#setup)  | 
 | 4 | [Libraries](#Libraries) |
-| 5 | [Members](#Members) | 
+| 5 | [Project Images](#Project Images) |
+| 6 | [Members](#Members) | 
 
 	
 </div>
@@ -114,7 +115,7 @@ pip install yfinance
 
 </br>
 
-## Project Outcome
+## Project Images
 
 <div align = "center">
 </br>
