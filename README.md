@@ -17,23 +17,37 @@
 
 - This project is simple Lorem ipsum dolor generator.
 	
-## Libraries
-
-- Project is created with:
-		
-	* Lorem version: 12.3
-	* Ipsum version: 2.33
-	* Ament library version: 999
-	
 ## Setup
 
-- To run this project, install it locally using npm:
+- To run this project, install and setup the following Libraries,
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+pip install dash   
+pip install dash-html-components                                         
+pip install dash-core-components                                     
+pip install plotly
+
+pip install dash-bootstrap-components
+pip install stockstats
+pip install mpl_finance
 ```
+
+## Libraries
+
+- Project is created with,
+		
+	* json
+	* dash
+	* dash_core_components
+	* dash_html_components
+	* dash.dependencies
+	* dash_bootstrap_components
+	* dash_table
+	* plotly
+	* datetime
+	* stockstats
+	* matplotlib
+
 
 <div align = "center">
 	
