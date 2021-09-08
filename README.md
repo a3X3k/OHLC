@@ -135,7 +135,7 @@ pip install yfinance
 	
 </br>
 
-| Adheena B | Karthik Shriram G S| Lavanya Ratna Sirisha Munduri | Peddu Sai Harika | S Abhishek |
+| [Adheena B]() | [Karthik Shriram G S]()| [Lavanya Ratna Sirisha Munduri]() | [Peddu Sai Harika]() | [S Abhishek]() |
 |----------------|----------------|----------------|----------------|----------------|
 	
 </div>
