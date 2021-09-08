@@ -70,17 +70,17 @@ pip install mpl_finance
 
 - Project is created with,
 		
-	* [JSON](#)
-	* [Dash](#)
-	* [Dash Core Components](#)
-	* [Dash Html Components](#)
-	* [Dash Dependencies](#)
-	* [Dash Bootstrap Components](#)
-	* [Dash Table](#)
-	* [Plotly](#)
-	* [Datetime](#)
-	* [Stockstats](#)
-	* [Matplotlib](#)
+	* [JSON](#Libraries)
+	* [Dash](#Libraries)
+	* [Dash Core Components](#Libraries)
+	* [Dash Html Components](#Libraries)
+	* [Dash Dependencies](#Libraries)
+	* [Dash Bootstrap Components](#Libraries)
+	* [Dash Table](#Libraries)
+	* [Plotly](#Libraries)
+	* [Datetime](#Libraries)
+	* [Stockstats](#Libraries)
+	* [Matplotlib](#Libraries)
 
 
 <div align = "center">
