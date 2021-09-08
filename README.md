@@ -5,14 +5,13 @@
 	
 ## Table of contents
 
+| Table Of Contents |
+|----------------|
 | [About](#About)  | 
-|----------------|
 | [Setup](#setup)  | 
-|----------------|
 | [Libraries](#Libraries) |
-|----------------|
 | [Members](#Members) | 
-|----------------|
+
 	
 </div>
 
