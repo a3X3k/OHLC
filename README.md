@@ -40,7 +40,8 @@ stock.
 - An **OHLC** chart is a type of bar chart that shows open, high, low, and closing prices for each period. 
 - **OHLC** charts are useful since they show the four major data points over a period, with the closing price being considered the most important by many traders.
 - The final output will be displayed in a report printed in **Charts**. 
-	
+
+</br>
 	
 ## Input
 
@@ -59,7 +60,8 @@ struct OHLC
 ```
 
 - Rest all attributes can be ignored for generating the OHLC Bar charts
-	
+
+</br>
 	
 ## Setup
 
@@ -83,6 +85,7 @@ pip install mpl_finance
 pip install yfinance
 ```
 
+</br>
 
 ## Libraries
 
@@ -106,6 +109,7 @@ pip install yfinance
 	* [yfinance](#Libraries)
 	* [Pickle](#Libraries)
 
+</br>
 
 ## Project Outcome
 
