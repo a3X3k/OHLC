@@ -7,15 +7,17 @@
  
 ## Table of contents
  
-* [General info](#general-info)
-* [Technologies](#technologies)
+* [About](#About)
 * [Setup](#setup)
+* [Libraries](#Libraries)
+* [Members](#Members)
 
-## General info
+
+## About
 
 - This project is simple Lorem ipsum dolor generator.
 	
-## Technologies
+## Libraries
 
 - Project is created with:
 		
@@ -33,4 +35,5 @@ $ npm install
 $ npm start
 ```
 
+## Members
 
