@@ -68,6 +68,8 @@ pip install dash-bootstrap-components
 pip install stockstats
 
 pip install mpl_finance
+
+pip install yfinance
 ```
 
 
@@ -86,6 +88,11 @@ pip install mpl_finance
 	* [Datetime](#Libraries)
 	* [Stockstats](#Libraries)
 	* [Matplotlib](#Libraries)
+	* [Pandas](#Libraries)
+	* [Pandas Datareader](#Libraries)
+	* [Numpy](#Libraries)
+	* [Seaborn](#Libraries)
+	* [yfinance](#Libraries)
 
 
 <div align = "center">
