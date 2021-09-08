@@ -23,6 +23,8 @@
 
 ## Directory Structure
 
+</br>
+
 ```
 ├── RSI Code
 │   ├── RSI.py
@@ -30,6 +32,7 @@
 └── README.md
 ```
 
+</br>
 
 ## About
 
